@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  font-size: 24px;
+  line-height: 32px;
+  color: #333;
+  background-color: gray;
+}
+
+header {
+  padding: 40px;
+  margin: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+nav {
+  padding: 40px;
+  margin: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+section {
+  padding: 40px;
+  margin: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+aside {
+  padding: 40px;
+  margin: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+.left {
+  float: left;
+/*  margin-left: 70px;
+  margin-right: 10px; */
+  width: 45%;
+}
+
+.right {
+  float: left;
+  /*margin-left: 10px;
+  margin-right: 70px; */
+  width: 30%;
+}
+
+article {
+  padding: 40px;
+  margin: 20px;
+  color: white;
+  background: gray;
+}
+
+h1 {
+  padding: 40px;
+  margin: 10px;
+  color: #333;
+  background: #ccc;
+}
+
+p {
+  padding: 40px;
+  margin: 10px;
+  color: #333;
+  background: #ccc;
+}
+
+footer {
+  padding: 20px;
+  margin: 20px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 20px;
+  clear: both;
+  background: #ccc;
+}
